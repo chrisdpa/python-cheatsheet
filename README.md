@@ -1017,6 +1017,11 @@ def write_to_json_file(filename, an_object):
 ```
 
 
+### Edit JSON - Remove an Element
+```python
+del <object>[<element>]
+```
+
 Pickle
 ------
 ```python
